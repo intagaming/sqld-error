@@ -97,7 +97,7 @@ func main() {
 			// 	}
 			// }()
 			// time.Sleep(200 * time.Millisecond)
-			time.Sleep(15 * time.Second)
+			time.Sleep(500 * time.Second)
 		}
 	}(db)
 	for {

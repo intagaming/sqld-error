@@ -23,6 +23,8 @@ github.com/klauspost/compress v1.15.15/go.mod h1:ZcK2JAFqKOpnBlxcLsJzYfrS9X1akm9
 github.com/leodido/go-urn v1.2.0/go.mod h1:+8+nEpDfqqsY+g338gtMEUOtuK+4dEMhiQEgxpxOKII=
 github.com/libsql/libsql-client-go v0.0.0-20230726191124-b9e38c7787c7 h1:XSaE+Il9WAKZdfk1M0OGleOe8SNFmos4RnWkT/175yg=
 github.com/libsql/libsql-client-go v0.0.0-20230726191124-b9e38c7787c7/go.mod h1:NUYqL0+PN/NioWv0OhYfCyj27SO/qyzARTLoJin8eAk=
+github.com/libsql/libsql-client-go v0.0.0-20230730120949-adbf52a3ab54 h1:B1SXpP9siCT3eqxMhs54q6tu8XSZFSB0z8XkSTX7aZg=
+github.com/libsql/libsql-client-go v0.0.0-20230730120949-adbf52a3ab54/go.mod h1:NUYqL0+PN/NioWv0OhYfCyj27SO/qyzARTLoJin8eAk=
 github.com/libsql/sqlite-antlr4-parser v0.0.0-20230720193828-8c03e0ee46f8 h1:pFHwt8MsEVA+PSsdE7j1aGwK7KRC0GMvKsqkf+kkVGE=
 github.com/libsql/sqlite-antlr4-parser v0.0.0-20230720193828-8c03e0ee46f8/go.mod h1:20nXSmcf0nAscrzqsXeC2/tA3KkV2eCiJqYuyAgl+ss=
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=

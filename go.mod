@@ -2,7 +2,7 @@ module sqld-error
 
 go 1.20
 
-require github.com/libsql/libsql-client-go v0.0.0-20230726191124-b9e38c7787c7
+require github.com/libsql/libsql-client-go v0.0.0-20230730120949-adbf52a3ab54
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr/v4 v4.0.0-20230512164433-5d1fd1a340c9 // indirect
